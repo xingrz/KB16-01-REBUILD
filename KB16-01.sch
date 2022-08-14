@@ -2294,11 +2294,17 @@ Wire Wire Line
 	7100 2600 7400 2600
 NoConn ~ 8700 3300
 NoConn ~ 8700 3200
-Text Notes 8750 3300 0    50   ~ 0
-USART1_TX
 NoConn ~ 8700 2900
 NoConn ~ 8700 3000
 NoConn ~ 7400 3100
 NoConn ~ 7400 2500
 NoConn ~ 8700 2400
+Text Notes 6550 3400 2    50   ~ 0
+USART3_TX
+Text Notes 7050 3000 2    50   ~ 0
+USART1_TX
+Text Notes 9050 2600 0    50   ~ 0
+USART2_TX
+Text Notes 8750 3300 0    50   ~ 0
+USART1_TX
 $EndSCHEMATC
