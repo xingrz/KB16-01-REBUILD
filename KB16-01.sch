@@ -456,9 +456,9 @@ R0
 Text Label 800  1800 0    50   ~ 0
 R1
 Text Label 800  2300 0    50   ~ 0
-R3
+R2
 Text Label 800  2800 0    50   ~ 0
-R4
+R3
 Text Label 1000 3000 1    50   ~ 0
 C0
 Wire Wire Line
@@ -1461,9 +1461,9 @@ R0
 Text Label 7200 2800 0    50   ~ 0
 R1
 Text Label 7200 3300 0    50   ~ 0
-R3
+R2
 Text Label 7200 3200 0    50   ~ 0
-R4
+R3
 Text Label 8900 3400 2    50   ~ 0
 RGB
 Wire Wire Line
@@ -2307,4 +2307,6 @@ Text Notes 9050 2600 0    50   ~ 0
 USART2_TX
 Text Notes 8750 3300 0    50   ~ 0
 USART1_TX
+NoConn ~ 8700 3900
+NoConn ~ 7400 3900
 $EndSCHEMATC
